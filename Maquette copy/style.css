@@ -101,6 +101,11 @@ a:hover {
     font-weight: 500;
 }
 
+.text-citation-desc{
+    color: #383838;
+    font-size: 18px;
+}
+
 .b-parallax {
     background-attachment: fixed;
 }

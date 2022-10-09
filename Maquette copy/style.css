@@ -94,6 +94,11 @@ a:hover {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
+.text-citation{
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
 
 .b-parallax {
     background-attachment: fixed;

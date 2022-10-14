@@ -847,6 +847,8 @@ h4 {
 
 .header-style{
     font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
 }
 
 @media (max-width: 1024px) {
